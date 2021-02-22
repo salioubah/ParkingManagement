@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.salioubah.proximity_parking"},{"l":"com.salioubah.proximity_parking.controller"},{"l":"com.salioubah.proximity_parking.model"},{"l":"com.salioubah.proximity_parking.service"}];updateSearchResults();
